@@ -1,5 +1,7 @@
 namespace Mapsui.Styles;
 
+
+
 public class Pen
 {
     public Pen() : this(Color.Transparent) { }
