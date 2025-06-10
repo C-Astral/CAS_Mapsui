@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapsui.ArcGIS", "Mapsui.ArcGIS\Mapsui.ArcGIS.csproj", "{5DAE865F-BCB7-76D4-FAF9-3A5D096F0946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapsui.Extensions", "Mapsui.Extensions\Mapsui.Extensions.csproj", "{07BFADAE-BBFC-1B07-F263-FF752F60FED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapsui.Nts", "Mapsui.Nts\Mapsui.Nts.csproj", "{8745EEF2-1286-B7EA-DC6E-85A69F4F8B0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapsui.Rendering.Skia", "Mapsui.Rendering.Skia\Mapsui.Rendering.Skia.csproj", "{FB2FD9A0-EC89-33BF-F79C-168F89D56E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapsui.Tiling", "Mapsui.Tiling\Mapsui.Tiling.csproj", "{6FF94D54-500B-51DF-3BE8-4F57E81EAEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAE865F-BCB7-76D4-FAF9-3A5D096F0946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAE865F-BCB7-76D4-FAF9-3A5D096F0946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAE865F-BCB7-76D4-FAF9-3A5D096F0946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAE865F-BCB7-76D4-FAF9-3A5D096F0946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BFADAE-BBFC-1B07-F263-FF752F60FED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BFADAE-BBFC-1B07-F263-FF752F60FED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BFADAE-BBFC-1B07-F263-FF752F60FED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BFADAE-BBFC-1B07-F263-FF752F60FED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8745EEF2-1286-B7EA-DC6E-85A69F4F8B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8745EEF2-1286-B7EA-DC6E-85A69F4F8B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8745EEF2-1286-B7EA-DC6E-85A69F4F8B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8745EEF2-1286-B7EA-DC6E-85A69F4F8B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2FD9A0-EC89-33BF-F79C-168F89D56E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2FD9A0-EC89-33BF-F79C-168F89D56E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2FD9A0-EC89-33BF-F79C-168F89D56E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2FD9A0-EC89-33BF-F79C-168F89D56E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF94D54-500B-51DF-3BE8-4F57E81EAEC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF94D54-500B-51DF-3BE8-4F57E81EAEC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF94D54-500B-51DF-3BE8-4F57E81EAEC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF94D54-500B-51DF-3BE8-4F57E81EAEC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11973FB8-C568-4307-977A-6D69D4D116A1}
+	EndGlobalSection
+EndGlobal

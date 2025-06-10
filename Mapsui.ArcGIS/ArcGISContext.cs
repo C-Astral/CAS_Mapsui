@@ -17,4 +17,5 @@ namespace Mapsui.ArcGIS;
 [JsonSerializable(typeof(ArcGISImageCapabilities))]
 public partial class ArcGISContext : JsonSerializerContext
 {
+	//TEST
 }
